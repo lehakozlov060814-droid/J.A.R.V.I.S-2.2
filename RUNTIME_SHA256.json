@@ -1,0 +1,10 @@
+{
+  "main.py": "b402b8329c475e2a7f502afaaaf73a13ef243b5c1708944d6e431fd5c61c6a1c",
+  "personal.py": "5020bcaf85dde499e0f44b929aab1edc200a9babc3d2bbcf85431a505232d9b7",
+  "miniapp.py": "08e12a81e88072283897847af3d9ea2c8da5bfcc6cbb9c00ec33f8a030733fc1",
+  "live.py": "20b5e4bc2cfc86c266f3c5d080dcce8687b17bef0be81296dc2ddaae1689b2d6",
+  "telegram_context.py": "dd2d87bcdba9fcfe833099a78a1b8c78e04c76160f716a33e74d9506a8d9dda3",
+  "web/index.html": "5930b6ca7c2b783c1888acd3cc20a6cc0028ecb7b9fa5c98aeb9b57b31075391",
+  "web/app.js": "651a630e60202d4d28ca28066390c1e016fb0e3aef0fea3717ea125618674d51",
+  "web/style.css": "298f7e055fabc855166e19fa5136c220b67cb03234892e2e14b9db1065455bd1"
+}
